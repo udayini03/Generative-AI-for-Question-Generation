@@ -7,5 +7,7 @@ This project focuses on leveraging Generative AI techniques to create a customiz
 
 Question Generation: Utilizes a T5 Transformer model fine-tuned on the SQuAD dataset for generating questions.
 Answer Generation: Employs Llama 3.1 to generate context-aware answers.
+
 Distractor Generation for MCQs: Uses Sense2Vec and Named Entity Recognition (NER) for crafting plausible yet distinct distractor options.
+
 Customizability: Provides flexibility to adjust question types and model configurations.
